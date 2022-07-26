@@ -1,5 +1,3 @@
-package com.empedocles.artbookjava;
-
 import android.graphics.Bitmap;
 
 public class ImageSmaller {
